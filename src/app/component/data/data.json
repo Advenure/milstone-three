@@ -1,0 +1,59 @@
+[
+    {
+        "image":"/image.png",
+        "Title":"BABAR AZAM",
+        "Title2":"ABOUT BABAR AZAM",
+        "content":"Mohammad Babar Azam is a Pakistani international cricketer and the former captain of the Pakistan national cricket team in all three formats of the game. A right-handed top-order batter, he captain…",
+       "tag":"Read More",
+        "slug":"cricket01",
+        "content2":"Babar Azam is a world-renowned Pakistani cricketer and one of the finest batters of modern-day cricket. Born on October 15, 1994, in Lahore, he is celebrated for his consistent performances, elegant stroke play, and calm demeanor. Babar made his international debut in 2015 and quickly established himself as a pivotal player for Pakistan in all formats. He holds numerous records, including being one of the fastest to reach 1,000 runs in ODIs. As Pakistan's captain, he has led the team with determination, earning respect for his leadership skills. Babar's dedication and technique make him a role model for aspiring cricketers worldwide."
+    },
+    {
+        "image":"/image copy.png",
+        "Title":"VIRAT KHOLI",
+        "Title2":"ABOUT VIRAT KHOLI",
+        "content":"Abraham Benjamin de Villiers is a South African former international cricketer, and a current commentator. AB de Villiers was named as the ICC ODI Player of the Year three times during his 15-year inte…",
+        "tag":"Read More",
+        "slug":"cricket02",
+        "content2":"Virat Kohli is an iconic Indian cricketer widely regarded as one of the greatest batters in the history of the game. Born on November 5, 1988, in Delhi, he is celebrated for his aggressive batting style, remarkable consistency, and unmatched fitness. Kohli made his international debut in 2008 and has since broken numerous records, including being the fastest to 8,000, 9,000, and 10,000 ODI runs. As India's captain (2013–2022 in various formats), he led the team to significant successes, including reaching the ICC World Test Championship final. Renowned for his fierce competitiveness and passion, Kohli inspires millions as a modern-day cricket legend."
+    },
+    {
+        "image":"/image copy 6.png",
+        "Title":" AB DE VILLIERS",
+        "Title2":"ABOUT  AB DE VILLIERS",
+        "content":"Mental health is just as important as physical health, yet it's often overlooked. Taking care of your mental well-being can enhance your overall quality of life.",
+        "tag":"Read More",
+        "slug":"cricket03",
+        "content2":"AB de Villiers, often referred to as is a legendary South African cricketer known for his incredible versatility and innovative batting. Born on February 17, 1984, in Pretoria, he revolutionized modern cricket with his ability to play shots all around the ground, earning him the unique nickname. AB de Villiers made his international debut in 2004 and enjoyed a stellar career across all formats until his retirement in 2018. A prolific run-scorer, he holds records such as the fastest 50, 100, and 150 in ODIs. His unmatched skill, athleticism, and sportsmanship make him a true icon of the game."
+    },
+    {
+        "image":"/image copy 2.png",
+        "Title":"SACHIN TENDULKAR",
+        "Title2":"ABOUT SACHIN TENDUKAR",
+        "content":"Sachin Tendulkar's cricket career spanned an impressive period from 1989 to 2013, during which he made significant contributions to the sport. His time on the field showcased his skills and dedication, leaving a lasting impact on the game.",
+        "tag":"Read More",
+        "slug":"cricket04",
+        "content2":"Sachin Tendulkar, known as the Little Master and the God of Cricket is a legendary Indian cricketer and one of the greatest players in the history of the sport. Born on April 24, 1973, in Mumbai, he made his international debut at the age of 16 in 1989 and went on to have an illustrious career spanning over two decades. Tendulkar is the highest run-scorer in both Test and ODI cricket and holds numerous records, including 100 international centuries. Renowned for his impeccable technique, consistency, and humility, he played a pivotal role in India's 2011 World Cup victory. Tendulkar's legacy inspires millions worldwide."
+    },
+    {
+        "image":"/image copy 3.png",
+        "Title":"FAKHAR ZAMAN",
+        "Title2":"ABOUT FAKHAR ZAMAN ",
+        "content":"Fakhar Zaman is a Pakistani international cricketer who plays for the Pakistan national cricket team. He scored his first ODI century against India in 2017 Champions Trophy Final. He also plays for …",
+        "tag":"Read More",
+        "slug":"cricket05",
+        "content2":"Fakhar Zaman is a prominent Pakistani cricketer known for his aggressive batting style and ability to deliver match-winning performances. Born on April 10, 1990, in Mardan, he rose to fame with his sensational performances in limited-overs cricket. Fakhar made his ODI debut in 2017 and quickly became a key player for Pakistan, famously scoring a century in the ICC Champions Trophy 2017 final against India, helping Pakistan clinch the title. He is also the first Pakistani to score a double century in ODIs. With his fearless approach and consistency, Fakhar continues to be a vital asset for Pakistan cricket."
+    },
+    {
+        "image":"/image copy 4.png",
+        "Title":"SHAHEEM SHAH AFRIDI",
+        "Title2":"ABOUT SHAHEEM SHAH AFRIDI",
+        "content":"TShaheen Shah Afridi is a Pakistani international cricketer and the former captain of the Pakistan national cricket team in the T20I format. He is widely regarded as a crucial Pakistani bowler acros…",
+        "tag":"Read More",
+        "slug":"cricket06",
+        "content2":"Shaheen Shah Afridi is a dynamic Pakistani fast bowler renowned for his pace, swing, and ability to deliver breakthroughs in crucial moments. Born on April 6, 2000, in Khyber Agency, Pakistan, he quickly rose through the ranks to become one of the leading bowlers in international cricket. Shaheen made his debut in 2018 and has since been a pivotal part of Pakistan’s bowling attack in all formats. Known for his lethal yorkers and sharp bouncers, he has achieved several milestones, including being the youngest to take a five-wicket haul in a World Cup. His determination and skill make him a future legend in the making."
+    }
+
+
+
+]
